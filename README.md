@@ -5,7 +5,7 @@ feature :
         adding event => title , time , description
         delete event 
 
-i use ajax request to get post and delete task
+i use ajax request with vue.js to get post and delete task
 php is for api
 
 
