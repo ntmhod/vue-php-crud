@@ -173,6 +173,11 @@
 
       	   return $this->msg;
       }
+    
+    public function closeDb(){
+      
+         return $this->mysqli->close();   
+    }
 
 
 
