@@ -1,12 +1,33 @@
 # eventApp
 A vue js event app with php
 
-feature : 
-        adding event => title , time , description
-        delete event 
+### Feature
 
-i use ajax request with vue.js to get post and delete task
-php is for api
+    #### Adding event
+    @title
+    @description
+    @time
+    
+    #### Deleting event
+    
+    based on @id
+    
+    #### get event 
+    @id
+    @title
+    @description
+    @time
+    
+
+## used language
+
+1. Vue.js
+2. PHP
+3. Bootstrap
+    
+    
+
+
 
 
       
