@@ -3,16 +3,16 @@ A vue js event app with php
 
 ### Feature
 
-    #### Adding event
+#### Adding event
     @title
     @description
     @time
     
-    #### Deleting event
+#### Deleting event
     
     based on @id
     
-    #### get event 
+#### get event 
     @id
     @title
     @description
